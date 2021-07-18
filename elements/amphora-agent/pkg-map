@@ -1,0 +1,11 @@
+{
+  "family": {
+    "redhat": {
+      "amphora-agent": "openstack-octavia-amphora-agent",
+      "netcat-openbsd": "nmap-ncat"
+    }
+  },
+  "default": {
+    "amphora-agent": "amphora-agent"
+  }
+}
